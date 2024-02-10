@@ -7,7 +7,7 @@ Interested in:
 - 🐍	Python
 - 🐹	Go
 - ⚙		C
-- 🖥️	C#,
+- 🖥️	C#
 - 📱	Kotlin
 - 💎	Ruby
 - 🌐	HTML & CSS
