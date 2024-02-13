@@ -9,5 +9,6 @@ Interested in:
 - ⚙		C
 - 🖥️	C#
 - 📱	Kotlin
+- 🦀 Rust
 - 💎	Ruby
 - 🌐	HTML & CSS
