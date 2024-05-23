@@ -2,9 +2,9 @@ Learning:
 - ☕	Java
 - 🪶	Swift
 - 🔰	Typescript/Javascript
+- 🐍	Python
 
 Interested in:
-- 🐍	Python
 - 🐹	Go
 - ⚙		C
 - 🖥️	C#
